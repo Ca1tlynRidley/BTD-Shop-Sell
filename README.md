@@ -1,5 +1,13 @@
 # BTD Shop & Sell
 
+<p align="center">
+  <img src="images/icon.png" alt="BTD Shop & Sell icon" width="350">
+</p>
+
+<p align="center">
+  A server-side Fabric economy mod featuring simple shop and selling interfaces.
+</p>
+
 BTD Shop & Sell is a Fabric mod for Minecraft Java Edition 1.20.1 that adds graphical `/shop` and `/sell` menus powered by the Impactor economy system.
 
 ## Features
@@ -79,6 +87,24 @@ Base sell prices include:
 | Emerald | $5.00 |
 
 Other sell prices are calculated from their configured buying prices.
+
+## Screenshots
+
+### Shop Interface
+
+Use `/shop` to browse available categories and purchase items.
+
+<p align="center">
+  <img src="images/shop.png" alt="BTD Shop interface" width="650">
+</p>
+
+### Sell Interface
+
+Use `/sell` to place items inside the menu and sell them directly.
+
+<p align="center">
+  <img src="images/sell.png" alt="BTD Sell interface" width="500">
+</p>
 
 ## Mod compatibility
 
